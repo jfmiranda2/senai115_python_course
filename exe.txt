@@ -40,4 +40,4 @@ Lembrando que a soma das medidas de dois lados de um triângulo é sempre maior 
 terceiro lado.
 
 
-
+4- Teste da aula para ver alterações ------
