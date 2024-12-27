@@ -19,7 +19,7 @@
 
 ### Description / Descrição
 
-🚀 This repository shares ALL of the resources referenced during the Python for Beginners tutorial series.
+🚀 Este repositório compartilha todos os materias utilizados durante o curso de Logica de Programação e Algoritmos.
 
 ---
 
